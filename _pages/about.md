@@ -37,7 +37,7 @@ I’m a creative designer passionate about crafting engaging visual experiences 
 
 Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu 
 
-[**Project Detail**](https://zonglin.webflow.io/project/dog-chat) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Detail**](https://www.zonglinzuo.com/dogchat-research) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This study explores how large language models (LLMs) based smart collars can enable pets to express themselves and interact with their owners through social media. 
 - **The system operates in three phases**: Pet Profile Construction, Daily Experience Reconstruction, and Behavior Learning Integration. 
 </div>
@@ -77,7 +77,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** UX Designer & Project Manager
 
-  [**Project Detail**](https://www.zonglinzuo.com/project/sponsor-project) 
+  [**Project Detail**](https://www.zonglinzuo.com/gcp) 
 
   - **Project Overview**：This project, sponsored by Google, involved redesigning the presentation of cloud products with an e-commerce approach, making it easy for users to "shop" for services. The deliverables included a comprehensive UX design lifecycle featuring content strategy, user flows, and design mockups.
 
@@ -104,7 +104,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** UX Design Lead
 
-  [**Project Detail**](https://zonglin.webflow.io/project/webflow-website) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**Project Detail**](https://www.zonglinzuo.com/tea-melodies) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   - **Project Overview**：This project leverages digital tools to modernize the traditional tea industry, focusing on transforming a tea plantation in Guangdong. It provides an efficient management platform for staff and machinery collaboration and a WeChat Mini Program to enhance the consumer shopping experience. 
   - **What I Did**: 
@@ -130,7 +130,7 @@ Cheng Xue, **Zonglin Zuo**, Xinran Jiang, and Xinyi Fu
 
   **My Role:** Project Team Lead & UX Designer
 
-  [**Project Detail**](https://zonglin.webflow.io/project/3d-abstract-wallpaper) 
+  [**Project Detail**](https://www.zonglinzuo.com/portfolio-collections/my-portfolio/project-title-1) 
   - **Project Overview**：This project introduced an ***interactive platform*** for people from different cultural backgrounds to share and experience traditional cultures, promoting cultural heritage and education. It also encourages community members to actively participate, *building a diverse and inclusive cultural community*.
   - **What I Did**: 
   1. Led and managed project teams to ensure timely project delivery, utilizing Azure DevOps for efficient task allocation, progress tracking, and collaborative workflow optimization, resulting in the successful achievement of project milestones and objectives.
